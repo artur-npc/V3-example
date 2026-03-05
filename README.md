@@ -1,5 +1,2 @@
-# bettermotherfuckingwebsite
-A simple better mother fucking website.
+V3 - EUT Microsoft
 
-
-**It's an exercise from the TheHackingProject bootcamp.**
